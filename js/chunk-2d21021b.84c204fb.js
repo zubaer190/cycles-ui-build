@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d21021b"],{b71a:function(n,e,t){"use strict";t.r(e);var u=t("7a23");function a(n,e){return Object(u["A"])(),Object(u["g"])("h1",null,"You are unauthorize to view the page")}var o=t("6b0d"),r=t.n(o);const c={},b=r()(c,[["render",a]]);e["default"]=b}}]);
+//# sourceMappingURL=chunk-2d21021b.84c204fb.js.map
