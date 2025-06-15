@@ -1,2 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0d6f01"],{"754a":function(n,e,t){"use strict";t.r(e);var c=t("7a23");function o(n,e){return Object(c["u"])(),Object(c["f"])("h1",null,"SemenCryoStorage")}const r={};r.render=o;e["default"]=r}}]);
-//# sourceMappingURL=chunk-2d0d6f01.af049f75.js.map

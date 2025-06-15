@@ -1,2 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d21b86c"],{bfc5:function(n,c,t){"use strict";t.r(c);var e=t("7a23");function u(n,c){return Object(e["u"])(),Object(e["f"])("h1",null,"PatientMasLog")}const o={};o.render=u;c["default"]=o}}]);
-//# sourceMappingURL=chunk-2d21b86c.5843c233.js.map
